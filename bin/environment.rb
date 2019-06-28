@@ -1,9 +1,9 @@
 require 'pry'
 
-require_relative "../lib/phone.rb"
-require_relative "../lib/cell_phone.rb"
-require_relative "../lib/landline.rb"
-require_relative "../lib/iphone.rb"
+require "../lib/phone.rb"
+require "../lib/cell_phone.rb"
+require "../lib/landline.rb"
+require "../lib/iphone.rb"
 
 
 quinn = CellPhone.new
@@ -14,6 +14,8 @@ chris = Landline.new
 rylan = Iphone.new
 
 binding.pry
+
+Iphone.new
 #0
 
 
