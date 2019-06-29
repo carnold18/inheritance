@@ -29,6 +29,5 @@
 # 4. Nested Modules for class versus instance methods
 # 5. iPhone inherits from Cell Phone
 # 6. What if you dont want your kids to access your access parents' methods? PRIVATE
-#   - All methods below the keyword 'private' can only be accessed within the designated class 
-#     even if a sub-class inherits from it
+#   - All methods below the keyword 'private' can only be accessed within the designated class even if a sub-class inherits from it
 # 7. Move into terminal for ActiveRecord::Base.methods IF this lecture is after ActiveRecord is intro'd
